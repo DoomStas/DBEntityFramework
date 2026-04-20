@@ -29,3 +29,4 @@
 /Users/stas/RiderProjects/DBEntityFramework/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.pdb
 /Users/stas/RiderProjects/DBEntityFramework/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.genruntimeconfig.cache
 /Users/stas/RiderProjects/DBEntityFramework/DBEntityFramework/obj/Debug/net8.0/ref/DBEntityFramework.dll
+/Users/stas/RiderProjects/DBEntityFramework/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.sourcelink.json

@@ -7,19 +7,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d844caab-42b0-4a92-a491-dddfec0569a6" name="Changes" comment="" />
+    <list default="true" id="d844caab-42b0-4a92-a491-dddfec0569a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DBEntityFramework/FilmsRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DBEntityFramework/IRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DBEntityFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DBEntityFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/bin/Debug/net8.0/DBEntityFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/bin/Debug/net8.0/DBEntityFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/bin/Debug/net8.0/DBEntityFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/bin/Debug/net8.0/DBEntityFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/DBEntityFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/ref/DBEntityFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/ref/DBEntityFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/refint/DBEntityFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/Debug/net8.0/refint/DBEntityFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBEntityFramework/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DBEntityFramework/obj/rider.project.model.nuget.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DoomStas&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DoomStas/DBEntityFramework.git&quot;,
+    &quot;accountId&quot;: &quot;e73085ad-5f8d-46e9-a2e1-c54f1579bf81&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/DBEntityFramework/FilmsManagerDBContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntityFramework/FilmsRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntityFramework/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DBEntityFramework/Models.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3CZxCZvpRa5mLin6FH87Wa7gLX5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,12 +63,15 @@
     ".NET Project.DBEntityFramework.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys_rider",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -72,7 +108,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776606767047</updated>
-      <workItem from="1776606768593" duration="7563000" />
+      <workItem from="1776606768593" duration="8174000" />
+      <workItem from="1776715188754" duration="2334000" />
     </task>
     <servers />
   </component>
